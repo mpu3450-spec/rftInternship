@@ -1,4 +1,4 @@
-#lIST CLEANING IN PYTHON
+DAY 1
 ##DESCRIPTION
 This Python program removes duplicate values and invalid entries like None and empty strings from a list and returns a clean list.
 ##Features
@@ -11,3 +11,14 @@ Output: [10, 20, 30, 40]
 Removed values: 4
 ##Run
 python Day1.py
+
+DAY 2
+##Description
+This Python program analyzes student marks by calculating average, highest, lowest, and assigning grades.
+##Features
+Average marks calculation
+Highest & lowest marks
+Students above average
+Grade assignment using function
+##How to Run
+python Day2.py
