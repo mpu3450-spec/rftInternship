@@ -1,4 +1,4 @@
-DAY 1
+#DAY 1
 ##DESCRIPTION
 This Python program removes duplicate values and invalid entries like None and empty strings from a list and returns a clean list.
 ##Features
@@ -12,7 +12,7 @@ Removed values: 4
 ##Run
 python Day1.py
 
-DAY 2
+#DAY 2
 ##Description
 This Python program analyzes student marks by calculating average, highest, lowest, and assigning grades.
 ##Features
@@ -22,3 +22,14 @@ Students above average
 Grade assignment using function
 ##How to Run
 python Day2.py
+
+#DAY3
+##Description
+Simple phonebook app using Python dictionary with basic CRUD operations.
+##Features
+Add contact
+Search contact (partial search)
+Delete contact
+Show all contacts
+##How to Run
+python Day3.py
