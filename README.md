@@ -87,3 +87,19 @@ Functions
 Conditional Statements
 ##How To Run
 python Day7.py
+
+#DAY8
+##Description
+A simple Python project using Pandas to analyze employee salary data with groupby and aggregation functions.
+##Features
+Find average salary per department
+Find highest paid employee in each department
+Count employees per department
+Sort departments by average salary
+Concepts Used
+Pandas DataFrame
+GroupBy
+Aggregation
+Sorting
+##How To Run
+python Day8.py
