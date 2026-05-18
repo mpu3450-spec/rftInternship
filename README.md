@@ -127,3 +127,17 @@ Detect most frequent log type
 Ignore uppercase/lowercase differences
 ##How to Run
 python Day10.py
+
+#DAY11
+##Description
+This project visualizes weekly sales data using a line chart in Python with Matplotlib.
+##Features
+Line chart for sales trend visualization
+Highlights highest and lowest sales day
+Adds chart title and axis labels
+Grid and legend for better readability
+##Technologies Used
+Python
+Matplotlib
+##How to Run
+python Day11.py
