@@ -141,3 +141,21 @@ Python
 Matplotlib
 ##How to Run
 python Day11.py
+
+#DAY12
+##Description
+This project is a Student Performance Dashboard created using Python and Matplotlib.
+It displays a Grouped Bar Chart to compare marks of students across multiple subjects.
+##Features
+Comparative visualization using grouped bar charts
+Displays marks of multiple students
+Easy-to-understand graphical representation
+Beginner-friendly Python project
+Concepts Used
+Python Lists
+NumPy Arrays
+Matplotlib Visualization
+Grouped Bar Charts
+Data Comparison
+##How to Run
+python Day12.py
