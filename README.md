@@ -176,3 +176,18 @@ Matplotlib
 Seaborn
 ##How to Run
 python Day13.py
+
+#DAY14
+##Description
+This project visualizes expense distribution using a Pie Chart in Python with Matplotlib.
+##Features
+Displays expenses category-wise
+Highlights the highest expense category
+Uses custom colors
+Shows percentage values
+Adds shadow effect for better visualization
+##Technologies Used
+Python
+Matplotlib
+##How to Run
+python Day14.py
