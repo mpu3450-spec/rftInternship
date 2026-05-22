@@ -191,3 +191,20 @@ Python
 Matplotlib
 ##How to Run
 python Day14.py
+
+#DAY15
+##Description
+This project analyzes student marks using different data visualization techniques in Python.
+##Features
+Line Plot for marks trend analysis
+Bar Chart for student marks comparison
+Histogram for marks distribution
+KDE curve for better distribution understanding
+Multiple subplots in a single figure
+##Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+##How to Run
+python Day15.py
