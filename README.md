@@ -208,3 +208,22 @@ Matplotlib
 Seaborn
 ##How to Run
 python Day15.py
+
+#DAY16
+##Description
+This project performs Exploratory Data Analysis (EDA) on a sales dataset using Python, Pandas, Matplotlib, and Seaborn.
+##Features
+Handle missing values
+Analyze total sales per product
+Region-wise sales performance
+Sales trend visualization
+Top product analysis
+Monthly sales analysis
+Business insights generation
+##Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+##How to Run
+python Day16.py
