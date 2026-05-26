@@ -1,79 +1,79 @@
-#DAY 1
-##DESCRIPTION
+# DAY 1
+## DESCRIPTION
 This Python program removes duplicate values and invalid entries like None and empty strings from a list and returns a clean list.
-##Features
+## Features
 Removes duplicates
 Removes invalid values
 Counts removed elements
-###Example
+### Example
 Input: [10, None, 20, 10, "", 30, None, 40]
 Output: [10, 20, 30, 40]
 Removed values: 4
-##Run
+## Run
 python Day1.py
 
-#DAY 2
-##Description
+# DAY 2
+## Description
 This Python program analyzes student marks by calculating average, highest, lowest, and assigning grades.
-##Features
+## Features
 Average marks calculation
 Highest & lowest marks
 Students above average
 Grade assignment using function
-##How to Run
+## How to Run
 python Day2.py
 
-#DAY3
-##Description
+# DAY3
+## Description
 Simple phonebook app using Python dictionary with basic CRUD operations.
-##Features
+## Features
 Add contact
 Search contact (partial search)
 Delete contact
 Show all contacts
-##How to Run
+## How to Run
 python Day3.py
 
-#DAY4
-##Description
+# DAY4
+## Description
 This project analyzes system logs and counts different log types such as ERROR, INFO, and WARNING. It also finds the most frequent log type while ignoring case sensitivity.
-##Features
+## Features
 Count ERROR logs
 Count INFO logs
 Count WARNING logs
 Detect most frequent log type
 Ignore uppercase/lowercase differences
-##How to Run
+## How to Run
 python Day4.py
 
-#DAY5
-##Description:
+# DAY5
+## Description:
 A simple Python program to read and process CSV files without using the Pandas library.
-##Features:
+## Features:
 Reads CSV file data
 Stores data in list of dictionaries
 Uses file handling and string splitting
 Beginner-friendly Python project
-##How to Run
+## How to Run
 python Day5.py
 
-#DAY6
-##Description 
+# DAY6
+## Description 
 A simple Python project that analyzes sales data using the Pandas library. This project demonstrates CSV handling, column operations, aggregation, and sorting.
-##Features
+## Features
 Read sales data from CSV file
 Add new column: TOTAL = QUANTITY * PRICE
 Calculate total sales per product
 Find total revenue
 Identify top-selling product
 Sort products by revenue
-##How to Run
+## How to Run
 python Day6.py
 
-#DAY7
-##Description
+# DAY7
+## Description
 A simple Python project to analyze student performance using Pandas and generate useful insights from marks data.
-##Features
+## Features
 Calculate average marks
 Find topper
 Add grades
@@ -85,13 +85,13 @@ Filtering
 Aggregation
 Functions
 Conditional Statements
-##How To Run
+## How To Run
 python Day7.py
 
-#DAY8
-##Description
+# DAY8
+## Description
 A simple Python project using Pandas to analyze employee salary data with groupby and aggregation functions.
-##Features
+## Features
 Find average salary per department
 Find highest paid employee in each department
 Count employees per department
@@ -101,52 +101,52 @@ Pandas DataFrame
 GroupBy
 Aggregation
 Sorting
-##How To Run
+## How To Run
 python Day8.py
 
-#Day9
-##Description
+# Day9
+## Description
 A simple Python project using pandas to filter employee data based on salary and age conditions.
-##Features
+## Features
 Create DataFrame using pandas
 Apply Boolean Filtering
 Use Multiple Conditions
 Display Filtered Results
 Save Filtered Data into CSV file
-##How To Run
+## How To Run
 python Day9.py
 
-#DAY10
-##Description
+# DAY10
+## Description
 This project analyzes system logs and counts different log types such as ERROR, INFO, and WARNING. It also finds the most frequent log type while ignoring case sensitivity.
-##Features
+## Features
 Count ERROR logs
 Count INFO logs
 Count WARNING logs
 Detect most frequent log type
 Ignore uppercase/lowercase differences
-##How to Run
+## How to Run
 python Day10.py
 
-#DAY11
-##Description
+# DAY11
+## Description
 This project visualizes weekly sales data using a line chart in Python with Matplotlib.
-##Features
+## Features
 Line chart for sales trend visualization
 Highlights highest and lowest sales day
 Adds chart title and axis labels
 Grid and legend for better readability
-##Technologies Used
+## Technologies Used
 Python
 Matplotlib
-##How to Run
+## How to Run
 python Day11.py
 
-#DAY12
-##Description
+# DAY12
+## Description
 This project is a Student Performance Dashboard created using Python and Matplotlib.
 It displays a Grouped Bar Chart to compare marks of students across multiple subjects.
-##Features
+## Features
 Comparative visualization using grouped bar charts
 Displays marks of multiple students
 Easy-to-understand graphical representation
@@ -157,62 +157,62 @@ NumPy Arrays
 Matplotlib Visualization
 Grouped Bar Charts
 Data Comparison
-##How to Run
+## How to Run
 python Day12.py
 
-#DAY13
-##Description
+# DAY13
+## Description
 This project demonstrates Distribution Analysis using Python libraries like Seaborn, Matplotlib, and Pandas.
 The program visualizes the distribution of student marks using a Histogram along with a KDE (Kernel Density Estimation) Curve.
-##Features
+## Features
 Histogram Visualization
 KDE Curve for distribution understanding
 Skewness Detection
 Simple and beginner-friendly code
-##Technologies Used
+## Technologies Used
 Python
 Pandas
 Matplotlib
 Seaborn
-##How to Run
+## How to Run
 python Day13.py
 
-#DAY14
-##Description
+# DAY14
+## Description
 This project visualizes expense distribution using a Pie Chart in Python with Matplotlib.
-##Features
+## Features
 Displays expenses category-wise
 Highlights the highest expense category
 Uses custom colors
 Shows percentage values
 Adds shadow effect for better visualization
-##Technologies Used
+## Technologies Used
 Python
 Matplotlib
-##How to Run
+## How to Run
 python Day14.py
 
-#DAY15
-##Description
+# DAY15
+## Description
 This project analyzes student marks using different data visualization techniques in Python.
-##Features
+## Features
 Line Plot for marks trend analysis
 Bar Chart for student marks comparison
 Histogram for marks distribution
 KDE curve for better distribution understanding
 Multiple subplots in a single figure
-##Technologies Used
+## Technologies Used
 Python
 Pandas
 Matplotlib
 Seaborn
-##How to Run
+## How to Run
 python Day15.py
 
-#DAY16
-##Description
+# DAY16
+## Description
 This project performs Exploratory Data Analysis (EDA) on a sales dataset using Python, Pandas, Matplotlib, and Seaborn.
-##Features
+## Features
 Handle missing values
 Analyze total sales per product
 Region-wise sales performance
@@ -220,10 +220,31 @@ Sales trend visualization
 Top product analysis
 Monthly sales analysis
 Business insights generation
-##Technologies Used
+## Technologies Used
 Python
 Pandas
 Matplotlib
 Seaborn
-##How to Run
+## How to Run
 python Day16.py
+
+# DAY17
+## Description
+This project performs Customer Segmentation Analysis using Python, Pandas, and Matplotlib.  
+The goal is to analyze customer behavior based on spending patterns and visit frequency.
+## Features
+- Handle missing values
+- Group customers by spending behavior
+- Identify:
+  - High-value customers
+  - Low-engagement users
+- Visualize:
+  - Spending distribution
+  - Customer categories
+- Suggest business strategies
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+## How to Run
+python Day17.py
