@@ -250,6 +250,7 @@ The goal is to analyze customer behavior based on spending patterns and visit fr
 python Day17.py
 
 # DAY18
+## Description
 This project performs Exploratory Data Analysis (EDA) on a movie dataset using Python, Pandas, and Matplotlib.
 ## Features
 Analyze highest rated movies
@@ -264,3 +265,19 @@ Pandas
 Matplotlib
 ## How to Run
 python Day18.py
+
+# DAY19
+## Description
+This project performs time-series analysis on stock price data using Python. It focuses on identifying trends, calculating moving averages, detecting peaks and drops, and analyzing volatility. The project also includes visualization for better understanding of stock behavior over time.
+## Features
+Analyze stock price trends over time
+Compute moving averages for trend smoothing
+Detect peaks (local highs) and drops (local lows)
+Measure stock volatility (risk)
+Compare multiple stocks visually
+## Technologies Used
+Python 
+Pandas 
+Matplotlib 
+## How to Run
+python Day19.py
