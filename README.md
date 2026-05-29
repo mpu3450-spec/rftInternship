@@ -281,3 +281,20 @@ Pandas
 Matplotlib 
 ## How to Run
 python Day19.py
+
+# DAY20
+## Description
+A complete Data Analysis and Visualization project built using Python, Pandas, and Matplotlib.
+## Features
+✔️ Cleaned and processed sales dataset
+✔️ Calculated total sales
+✔️ Analyzed sales region-wise
+✔️ Identified top-selling product category
+✔️ Created:
+Dashboard-style visualization
+## Technologies Used
+Python
+Pandas
+Matplotlib
+## How to Run
+python Day20.py
