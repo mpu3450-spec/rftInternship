@@ -314,3 +314,23 @@ Loops & conditions
 max(), min(), sum(), len()
 ## How to run
 python Day 21.py
+
+# DAY22
+## description
+This project analyzes sales data using Python, Pandas, Matplotlib, and Seaborn.
+## Features
+Cleaned missing and duplicate data
+Calculated total sales
+Calculated average revenue
+Identified Top 5 customers
+Created Sales Trend Line Chart
+Created Top Products Bar Chart
+Created Category Distribution Pie Chart
+Extracted 5 business insights
+## Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+## How to run
+python Day 22.py
