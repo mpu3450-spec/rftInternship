@@ -334,3 +334,24 @@ Matplotlib
 Seaborn
 ## How to run
 python Day 22.py
+
+# DAY 23
+# Description
+A Python project for analyzing employee performance and attendance using CSV data.
+# Features
+✔️ Department-wise average performance
+✔️ Identify Top 10 performers
+✔️ Find employees with attendance below 75%
+✔️ Performance comparison chart
+✔️ Attendance trend visualization
+✔️ Department distribution pie chart
+✔️ Export final report as CSV
+✔️ Interactive Streamlit dashboard
+# Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Streamlit
+# Run
+python day23.py
