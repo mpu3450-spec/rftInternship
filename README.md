@@ -355,3 +355,19 @@ Seaborn
 Streamlit
 # Run
 python day23.py
+
+# DAY 24
+## Description
+A Python project for analyzing weather data using CSV data.
+## Features
+✔️ City-wise average temperature
+✔️ Hottest & coldest city
+✔️ Rainy & sunny days count
+✔️ Temperature & weather visualizations
+✔️ Tomorrow's temperature prediction
+✔️ CSV report export
+✔️ Streamlit dashboard
+## Technologies
+Python | Pandas | Matplotlib | Streamlit
+## Run
+python day24.py
